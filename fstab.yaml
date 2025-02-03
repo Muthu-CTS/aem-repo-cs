@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p149357-e1522213.adobeaemcloud.com/bin/franklin.delivery/muthu-cts/aem-repo-cs/main"
+    url: "https://author-p149357-e1522213.adobeaemcloud.com/bin/franklin.delivery/muthu-cts/aem-eds-repo/main"
     type: "markup"
     suffix: ".html"
